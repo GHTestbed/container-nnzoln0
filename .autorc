@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "GHTestbed",
+  "repo": "container-nnzoln0",
+  "name": "GHTestbed",
+  "email": "thabrad@icloud.com",
+}
